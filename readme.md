@@ -1,3 +1,8 @@
+# Wordpress theme
+
+This is a still unnamed Wordpress theme based on the Lightweight Wordpress Development Theme *Bones*. The theme is designed for a project page of mine with the goal of being clean, simple and elegant. Licensed under the WTFPL, as the original work. If you find this theme useful, please, help yourself! :)
+
+
 # Bones
 A Lightweight Wordpress Development Theme
 
